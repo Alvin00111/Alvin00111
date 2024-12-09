@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvin-manu&label=Profile%20views&color=0e75b6&style=flat" alt="alvin-manu" /> </p>
 
-- 🎓 BCA Graduate
+- 🎓 **BCA** Graduate
 
 - 🌱 I’m currently learning **MEARN Stack**
 
